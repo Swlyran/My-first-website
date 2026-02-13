@@ -64,9 +64,7 @@
     <h2>💡 Skills</h2>
     <div class="card">
         <p>HTML</p>
-        <p>CSS</p>
-        <p>Java</p>
-        <p>Database</p>
+        <p>CSS</ p>
         <p>System Analysis & Design</p>
     </div>
 </ section>
