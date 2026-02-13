@@ -46,7 +46,7 @@
 
 <header>
     <h1>Hello 👋 I'm Swlyran</h1>
-    <p>IT Student | Future Software Developer</p>
+    <p>IT Student | Future programmer</p>
 </header>
 
 <section>
@@ -69,18 +69,9 @@
         <p>Database</p>
         <p>System Analysis & Design</p>
     </div>
-</section>
+</ section>
 
-<section>
-    <h2>📂 My Projects</h2>
-    <div class="card">
-        <p>✔ Hospital Electronic Patient Record System</p>
-        <p>✔ Registration Management System</p>
-        <p>✔ Simple HTML Website</p>
-    </div>
-</section>
-
-<section>
+<sectio>
     <h2>📞 Contact Me</h2>
     <div class="card">
         <p>Email: yourgmail@gmail.com</p>
