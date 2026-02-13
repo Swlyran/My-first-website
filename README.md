@@ -16,7 +16,8 @@
             color: white;
             padding: 30px;
         }
-
+     <img src="snapchart-1235298204.jpg" alt="my Photo"
+  style="width: 150px; border-radius:50%;>
         section {
             padding: 20px;
         }
