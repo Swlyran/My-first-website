@@ -74,7 +74,7 @@
 <sectio>
     <h2>📞 Contact Me</h2>
     <div class="card">
-        <p>Email: yourgmail@gmail.com</p>
+        <p>Email: swaumar81@gmail.com</p>
         <p>GitHub: <a href="https://github.com/yourusername">Click Here</a></p>
     </div>
 </section>
