@@ -54,7 +54,7 @@
         <p>
             I am an IT student passionate about technology, 
             programming and system development. 
-            I enjoy building web applications and learning new skills.
+            I enjoy building web applications and learning new skills.I'm the first year student at IFM university in Dar es saalam
         </p>
     </div>
 </section>
