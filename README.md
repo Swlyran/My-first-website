@@ -5,14 +5,14 @@
     <style>
         body {
             font-family: Arial;
-            background-color: lightblue
+            background-color:lightblue
             margin: 0;
             padding: 0;
             text-align: center;
         }
 
         header {
-            background-color: #0d6efd;
+            background-color:lightblue
             color: white;
             padding: 30px;
         }
